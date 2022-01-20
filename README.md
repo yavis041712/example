@@ -1,2 +1,2 @@
 # example
-my first project 
+Daiki is developer
