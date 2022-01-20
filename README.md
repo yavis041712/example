@@ -1,2 +1,2 @@
-# example
+hello
 my first project 
